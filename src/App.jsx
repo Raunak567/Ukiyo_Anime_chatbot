@@ -68,7 +68,7 @@ const App = () => {
   `;
 
     const genAI = new GoogleGenerativeAI("PASTE_YOUR_API_KEY_HERE");
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash", safetySettings: safetySettings });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro", safetySettings: safetySettings });
 
     const result = await model.generateContent(systemPrompt + '\n' + msg);
 
