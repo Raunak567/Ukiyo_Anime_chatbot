@@ -14,7 +14,7 @@
 
 1. Clone the repository:
 ```
-   https://github.com/Raunak567/Ukiyo_Anime_chatbot
+https://github.com/Raunak567/Ukiyo_Anime_chatbot
 ```
 2. Navigate to the project directory:
 ```
