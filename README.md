@@ -33,7 +33,7 @@
 
 1. Clone the repository:
 ```
-https://github.com/Raunak567/Ukiyo_Anime_chatbot
+git clone https://github.com/Raunak567/Ukiyo_Anime_chatbot
 ```
 2. Navigate to the project directory:
 ```
